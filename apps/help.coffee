@@ -5,8 +5,8 @@ exports.main = exports.help = (config) ->
 
 
 usage: 
+    npm start
     npm start --version
-    npm start --help
     npm start <app> --help
     npm start <app> [app args...]
 
